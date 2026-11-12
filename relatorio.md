@@ -1,7 +1,7 @@
 # Roteirização de entregas com A* e Algoritmo Genético
 
 **Disciplina:** Inteligência Artificial  
-**Integrantes:** [preencher nomes da dupla]  
+**Integrantes:** Kauê Cardoso e Francisco Rafael  
 **Professor:** Renê Gadelha  
 **Data:** [preencher]
 
