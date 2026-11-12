@@ -1,6 +1,12 @@
 # Busca de rota de entregas: A* e Algoritmo Genético
 
-Projeto da atividade de Inteligência Artificial. Compara dois algoritmos para o mesmo problema: visitar oito endereços de entrega, saindo e retornando à Base, minimizando a distância total.
+Projeto da atividade de Inteligência Artificial.
+
+## Equipe
+
+- Kauê Cardoso
+- Francisco Rafael
+ Compara dois algoritmos para o mesmo problema: visitar oito endereços de entrega, saindo e retornando à Base, minimizando a distância total.
 
 ## Problema e espaço de busca
 
@@ -29,5 +35,4 @@ A* é usado como referência ótima para esta instância pequena. O AG pode reto
 
 - `main.py`: implementação e execução dos dois algoritmos.
 - `relatorio.md`: texto-base para apresentar e entregar.
-- `apresentacao.md`: roteiro curto de apresentação.
 - `requirements.txt`: dependências (nenhuma além da biblioteca padrão).
